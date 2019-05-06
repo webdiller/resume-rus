@@ -35,6 +35,10 @@
 
 ### Языки 
 >Русский - родной.  
->English - умею читать и переводить.  
+>English - умею читать и переводить.
 
-
+### Контакты 
+>[Whatsapp](https://wa.me/79996159789)  
+>[Telegram](tg://resolve?domain=superhappy)  
+>[Вк](https://vk.com/eugenefromrus)  
+>[Gmail](mailto:eugenefromrus@gmail.com)
