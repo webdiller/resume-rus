@@ -7,12 +7,14 @@
 >CSS  
 >JavaScript  
 >Adobe Photoshop  
+>Верстка PSD макетов  
 >CMS Wordpress  
 >Git  
 >jQuery  
 >Bootstrap 4  
 >gulp   
 >sass  
+>адаптивность и кроссбраузерность  
 
 ### Опыт работы
 >**апрель 2018 - 2019**  
