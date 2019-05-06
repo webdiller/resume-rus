@@ -39,6 +39,6 @@
 
 ### Контакты 
 >[Whatsapp](https://wa.me/79996159789)  
->[Telegram](tg://resolve?domain=superhappy)  
+>Telegram: @superhappy  
 >[Вк](https://vk.com/eugenefromrus)  
 >[Gmail](mailto:eugenefromrus@gmail.com)
