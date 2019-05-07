@@ -7,14 +7,17 @@
 >CSS  
 >JavaScript  
 >Adobe Photoshop  
->Верстка PSD макетов  
->CMS Wordpress  
+>Верстка по PSD    
+>Wordpress  
 >Git  
 >jQuery  
 >Bootstrap 4  
->gulp   
->sass  
->Адаптивность и кроссбраузерность  
+>Gulp   
+>Sass  
+>PHP на уровне применения wordpress  
+**А так же:**  
+>Использую адаптивность и кроссбраузерность для проектов
+>Умею производить установку я.метрики, привязку к я.вебмастеру, использовавать google tag manager.  
 
 ### Примеры работ
 >[Адаптивная верстка по psd](https://webdiller.github.io/fruits/)  
