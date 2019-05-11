@@ -5,7 +5,7 @@
 >**Навыки**:  
 >HTML    
 >CSS  
->JavaScript  
+>Java Script  
 >Adobe Photoshop  
 >Верстка по PSD    
 >Wordpress  
@@ -15,6 +15,7 @@
 >Gulp   
 >Sass  
 >PHP на уровне применения wordpress  
+>Парсинг phpQuery    
 **А так же:**  
 >Использую адаптивность и кроссбраузерность для проектов  
 >Умею производить установку я.метрики, привязку к я.вебмастеру, использовавать google tag manager.  
