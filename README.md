@@ -14,6 +14,7 @@
 **А так же:**  
 >Использую адаптивность и кроссбраузерность для проектов  
 >Умею производить установку я.метрики, привязку к я.вебмастеру, использовавать google tag manager.  
+>Имею небольшой опыт работы с java, node.js  
 
 ### Примеры работ
 >[Строительство/ремонт](https://webdiller.github.io/order_landing_pzo/)   
@@ -46,7 +47,7 @@
 >English - умею читать и переводить.
 
 ### Контакты 
->[Whatsapp](https://wa.me/79996159789)  
+>[Whatsapp](https://wa.me/79996159789) +7-999-615-97-89  
 >Telegram: @superhappy  
 >[Вк](https://vk.com/eugenefromrus)  
 >[Gmail](mailto:eugenefromrus@gmail.com)  
