@@ -4,7 +4,7 @@
 ### Деятельность: веб-разработчик  
 
 ### Навыки
->HTML + CSS + Java Script + jQuery
+>HTML + CSS + Java Script + jQuery  
 >Wordpress  
 >Git  
 >Bootstrap 4   
