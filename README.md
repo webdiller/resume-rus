@@ -1,34 +1,31 @@
 # Евгений Олегович Бутков
 Мужчина, 25 лет, родился 29 декабря 1993.  
 
-### Деятельность: веб-разработчик
->**Навыки**:  
->HTML    
->CSS  
->Java Script  
->Adobe Photoshop  
->Верстка по PSD    
+### Деятельность: веб-разработчик  
+
+### Навыки
+>HTML + CSS + Java Script + jQuery
 >Wordpress  
 >Git  
->jQuery  
->Bootstrap 4  
+>Bootstrap 4   
 >Gulp   
 >Sass  
->PHP на уровне применения wordpress  
->Парсинг phpQuery    
+>PHP на уровне применения wordpress   
 **А так же:**  
 >Использую адаптивность и кроссбраузерность для проектов  
 >Умею производить установку я.метрики, привязку к я.вебмастеру, использовавать google tag manager.  
 
 ### Примеры работ
->[Адаптивная верстка по psd](https://webdiller.github.io/fruits/)  
->[Адаптивная верстка по psd](https://webdiller.github.io/mars/)  
->[Редизайн + Адаптивность + Посадка на Wordpress](http://shinomontage24.ru/)  
->[Адаптивность для сайта](https://xn----7sbaab1abucbubfrngff5byajq8guf.xn--80adxhks/)  
+>[Строительство/ремонт](https://webdiller.github.io/order_landing_pzo/)   
+>[Строительство/ремонт](https://webdiller.github.io/order_landing_hitachi/)  
+>[Необычный дизайн](https://webdiller.github.io/mars/)   
+>[Верстка без макета](https://webdiller.github.io/fruits/)   
+>[Редизайн + посадка на Wordpress](http://shinomontage24.ru/)   
+>[Посадка html шаблона на wordress](https://bonjuaria.online)   
 
 ### Опыт работы
->**2018 - 2019**  
-> Веб-разработчик. Создание сайтов на фриланс биржах (редизайн сайтов, посадка на системы управления, адаптация под мобильные устр-ва, кроссбраузерность).  
+>**2018 - настоящее время**  
+> Веб-разработчик. Разработкой сайтов, посадка на системы управления, поддержка сайтов, редизайн, доработка функционала.    
 >**2015 - 2018**  
 > Менеджер по продажам спортивных товаров.  
 >**2015 - 2015**  
@@ -52,4 +49,5 @@
 >[Whatsapp](https://wa.me/79996159789)  
 >Telegram: @superhappy  
 >[Вк](https://vk.com/eugenefromrus)  
->[Gmail](mailto:eugenefromrus@gmail.com)
+>[Gmail](mailto:eugenefromrus@gmail.com)  
+>[Личный сайт](https://www.webdiller.ru/)  
