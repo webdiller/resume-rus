@@ -5,7 +5,7 @@
 
 ### Навыки
 >HTML + CSS + Java Script + jQuery  
->БЭМ кодинг  
+>БЭМ нэйминг  
 >Wordpress  
 >Git  
 >Bootstrap 4   
