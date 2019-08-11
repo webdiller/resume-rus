@@ -5,6 +5,7 @@
 
 ### Навыки
 >HTML + CSS + Java Script + jQuery  
+>БЭМ кодинг  
 >Wordpress  
 >Git  
 >Bootstrap 4   
@@ -17,12 +18,13 @@
 >Имею небольшой опыт работы с java, node.js, angular 5,6  
 
 ### Примеры работ
->[Строительство/ремонт](https://webdiller.github.io/order_landing_pzo/)   
+>[Строительство/ремонт](https://p-z-o.ru/remont-spectechniki)   
 >[Строительство/ремонт](https://webdiller.github.io/order_landing_hitachi/)  
 >[Необычный дизайн](https://webdiller.github.io/mars/)   
 >[Верстка без макета](https://webdiller.github.io/fruits/)   
 >[Редизайн + посадка на Wordpress](http://shinomontage24.ru/)   
 >[Посадка html шаблона на wordress](https://bonjuaria.online)   
+>[Вырезка по дереву](https://ornate-carving.com/)   
 
 ### Опыт работы
 >**2018 - настоящее время**  
