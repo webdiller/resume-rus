@@ -18,13 +18,15 @@
 >Имею небольшой опыт работы с java, angular 8  
 
 ### Примеры работ
->[Строительство/ремонт](https://p-z-o.ru/remont-spectechniki)   
->[Строительство/ремонт](https://webdiller.github.io/order_landing_hitachi/)  
->[Необычный дизайн](https://webdiller.github.io/mars/)   
->[Верстка без макета](https://webdiller.github.io/fruits/)   
->[Редизайн + посадка на Wordpress](http://shinomontage24.ru/)   
->[Посадка html шаблона на wordress](https://bonjuaria.online)   
->[Вырезка по дереву](https://ornate-carving.com/)   
+>[Логистика/Wordpress/Многостраничник](http://atransdv.ru/)   
+>[Автошкола/Wordpress/Многостраничник](http://autogrenada.ru/)   
+>[Ремонт/Wordpress/Многостраничник](https://p-z-o.ru/remont-spectechniki)   
+>[Редизайн шиномонтажа/Wordpress/Многостраничник](http://shinomontage24.ru/)   
+>[Салон красоты/Wordpress/Многостраничник](http://montana-nails.ru/)     
+>[Прокат лодок/Wordpress/Многостраничник](https://flyboats.ru/)   
+>[Лендинг](https://webdiller.github.io/mars/)   
+>[Лендинг](https://webdiller.github.io/fruits/)    
+>[Лендинг](https://ornate-carving.com/)    
 
 ### Опыт работы
 >**2018 - настоящее время**  
