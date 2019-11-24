@@ -60,4 +60,4 @@
 >[Telegram]: @superhappy  
 >[Вк](https://vk.com/eugenefromrus)  
 >[Gmail](mailto:eugenefromrus@gmail.com)  
->[Личный сайт](tg://resolve?domain=superhappy)  
+>[Личный сайт](www.webdiller.ru)  
