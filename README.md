@@ -12,7 +12,8 @@
 >Gulp   
 >Sass  
 >PHP  
->Gatsby.js   
+>Gatsby.js   (недавно в изучении)
+>React.js   (недавно в изучении)
 **А так же:**  
 >Использую адаптивность и кроссбраузерность для проектов  
 >Умею производить установку я.метрики, привязку к я.вебмастеру, использовавать google tag manager.  
@@ -28,6 +29,7 @@
 >[Лендинг](https://webdiller.github.io/mars/)   
 >[Лендинг](https://webdiller.github.io/fruits/)    
 >[Лендинг](https://ornate-carving.com/)    
+>[API погоды в браузере](https://github.com/webdiller/weather-app)    
 
 ### Опыт работы
 >**2018 - настоящее время**  
