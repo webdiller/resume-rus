@@ -2,6 +2,8 @@
 Мужчина, 25 лет, родился 29 декабря 1993.  
 
 ### Деятельность: веб-разработчик  
+### Уровень: junior   
+### Опыт: > 1 года   
 
 ### Навыки
 >HTML + CSS + Java Script + jQuery  
@@ -29,7 +31,7 @@
 >[Лендинг](https://webdiller.github.io/mars/)   
 >[Лендинг](https://webdiller.github.io/fruits/)    
 >[Лендинг](https://ornate-carving.com/)    
->[API погоды в браузере](https://github.com/webdiller/weather-app)    
+>[работа с API погоды](https://github.com/webdiller/weather-app)    
 
 ### Опыт работы
 >**2018 - настоящее время**  
