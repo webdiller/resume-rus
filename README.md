@@ -1,3 +1,11 @@
+1. HTML5   
+2. Основная статья страницы должна быть обрамлена в тег . 
+   Тег должен присутствовать на странице в единственном экземпляре
+3. Внутри тега могут использоваться только теги h1-h6, p, a, ul+, ol+, I, b, strong, em, table+, section, u, s, img, figure, figcaption.  
+4.
+5.
+6.
+
 # Евгений Олегович Бутков
 Мужчина, 25 лет, родился 29 декабря 1993.  
 
@@ -32,7 +40,7 @@
 >[Лендинг](https://webdiller.github.io/mars/)   
 >[Лендинг](https://webdiller.github.io/fruits/)    
 >[Лендинг](https://ornate-carving.com/)    
->[работа с API погоды](https://github.com/webdiller/weather-app)    
+>[Работа с API погоды](https://github.com/webdiller/weather-app)[ - сайт](https://webdiller.github.io/weather-app/)    
 
 ### Опыт работы
 >**2018 - настоящее время**  
