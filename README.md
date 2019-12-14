@@ -14,7 +14,7 @@
 >Gulp   
 >Sass  
 >PHP  
->Gatsby.js      
+>Работа в Node.js окружении   
 >React.js   
 >Vue.js   
 **А так же:**  
