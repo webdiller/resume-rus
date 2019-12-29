@@ -36,6 +36,7 @@ IoT разработчик
 >[Салон красоты/Wordpress/Многостраничник](http://montana-nails.ru/)     
 >[Прокат лодок/Wordpress/Многостраничник](https://flyboats.ru/)   
 >[Эскорт агенство/Многостраничник](http://test.webdiller.ru/)    
+>[Магазин косметики/Многостраничник](http://css.skinfood.dev.2mhost.ru/)     
 >[Лендинг](https://webdiller.github.io/mars/)   
 >[Лендинг](https://webdiller.github.io/fruits/)    
 >[Лендинг](https://ornate-carving.com/)    
