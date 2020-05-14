@@ -22,9 +22,9 @@
 >React.js   
 
 ### Примеры работ
->[Магазин рыбы/Многостраничник](http://test.webdiller.ru/)
->[Магазин косметики/Многостраничник](http://test2.webdiller.ru/)
->[Лендинг для веб агенства](https://webdiller.github.io/web-alternative/)   
+>[Магазин рыбы/Многостраничник](http://test.webdiller.ru/)   
+>[Магазин косметики/Многостраничник](http://test2.webdiller.ru/)   
+>[Лендинг для веб агенства](https://webdiller.github.io/web-alternative/)     
 >[Логистика/Wordpress/Многостраничник](http://atransdv.ru/)   
 >[Автошкола/Wordpress/Многостраничник](http://autogrenada.ru/)   
 >[Ремонт/Wordpress/Многостраничник](https://p-z-o.ru/remont-spectechniki)   
