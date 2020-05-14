@@ -4,11 +4,10 @@
 ###### Деятельность: веб-разработчик  
 ###### Уровень: junior, pre-middle   
 ###### Опыт в веб разработке: > 1.5 лет  
-###### Опыт в программировании: > 3 лет 
+###### Опыт в программировании: > 4 лет 
 
 ### Желаемая должность
-Javascript разработчик   
-Веб разработчик   
+Верстальщик, Фронтенд разработчик, веб разработчик
 
 ### Навыки
 >HTML + CSS + Java Script + jQuery  
@@ -17,12 +16,15 @@ Javascript разработчик
 >Git  
 >Bootstrap 4   
 >Gulp   
->Sass  
+>Sass/Scss
 >PHP  
 >Работа в Node.js окружении   
->Vue.js   
+>React.js   
 
 ### Примеры работ
+>[Магазин рыбы/Многостраничник](http://test.webdiller.ru/)
+>[Магазин косметики/Многостраничник](http://test2.webdiller.ru/)
+>[Лендинг для веб агенства](https://webdiller.github.io/web-alternative/)   
 >[Логистика/Wordpress/Многостраничник](http://atransdv.ru/)   
 >[Автошкола/Wordpress/Многостраничник](http://autogrenada.ru/)   
 >[Ремонт/Wordpress/Многостраничник](https://p-z-o.ru/remont-spectechniki)   
