@@ -14,7 +14,7 @@
 >БЭМ нэйминг  
 >Wordpress    
 >Gulp 3/4  
->Sass/Scss
+>Sass/Scss   
 >PHP  
 >Работа в Node.js окружении   
 >React.js   
