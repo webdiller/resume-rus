@@ -15,10 +15,8 @@
 >Wordpress    
 >Gulp 3/4  
 >Sass/Scss   
->PHP  
 >Работа в Node.js окружении   
 >React.js   
->MERN стек
 
 ### Примеры работ
 >[Магазин рыбы/Многостраничник](http://test.webdiller.ru/)   
@@ -32,17 +30,15 @@
 >[Лендинг](https://webdiller.github.io/mars/)   
 >[Лендинг](https://webdiller.github.io/fruits/)    
 >[Лендинг](https://ornate-carving.com/)    
->[Работа с API погоды](https://github.com/webdiller/weather-app)[ - сайт](https://webdiller.github.io/weather-app/)    
+>[Работа с API погоды](https://github.com/webdhubiller/weather-app)[ - сайт](https://webdiller.github.io/weather-app/)    
+>[Работа с API git](https://github.com/webdiller/apiUsers)[ - сайт](https://api-users-seven.vercel.app/)    
+
 
 ### Опыт работы
 >**2020 - настоящее время**   
 > Работа в figma, верстка, разработка на reactjs.   
 >**2018 - 2019**  
 > Веб-разработчик. Разработкой сайтов, посадка на системы управления, поддержка сайтов, редизайн, доработка функционала.    
->**2015 - 2018**  
-> Менеджер по продажам спортивных товаров.  
->**2015 - 2015**  
-> Техник-дефектовщик кораблей.
 
 ### Обо мне
 > Конкретно изучением программирования начал заниматься с 2014 года. Был выбран яп java. Веб програмирование затронуто было в малой степени.  
