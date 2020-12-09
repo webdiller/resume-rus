@@ -47,7 +47,7 @@
 >[сайт](http://shinomontage24.ru/)   
 >
 >
->Салон красоты / Wordpress/ Многостраничник
+>Салон красоты / Wordpress/ Многостраничник         
 >[сайт](http://montana-nails.ru/)    
 >
 >
