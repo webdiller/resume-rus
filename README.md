@@ -96,8 +96,8 @@
 >English - умею читать и переводить, немного разговаривать
 
 ### Контакты 
->[Whatsapp](https://wa.me/79996159789) +7-999-615-97-89  
->Telegram: @webdillerru   
->[Вк](https://vk.com/eugenefromrus)    
->[Gmail](mailto:eugenefromrus@gmail.com)   
->[Личный сайт](https://www.webdiller.ru)   
+>[Whatsapp +7-999-615-97-89](https://wa.me/79996159789)     
+>[Telegram webdillerru](tg://resolve?domain=webdillerru)      
+>[vk.com/eugenefromrus](https://vk.com/eugenefromrus)  
+>[eugenefromrus@gmail.com](mailto:eugenefromrus@gmail.com)      
+>[Личный сайт webdiller.ru](https://www.webdiller.ru)   
