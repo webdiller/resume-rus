@@ -4,34 +4,75 @@
 ###### Деятельность: веб-разработчик  
 ###### Уровень: junior, pre-middle   
 ###### Опыт в веб разработке: > 1.5 лет  
-###### Опыт в программировании: > 4 лет 
 
 ### Желаемая должность
 Веб разработчик
 
 ### Навыки
->HTML + CSS + JS(es5/es6) + jQuery  
->БЭМ нэйминг  
->Wordpress    
+>HTML + CSS / SCSS / SASS + JS(es5/es6) + jQuery  
 >Gulp 3/4  
->Sass/Scss   
->Работа в Node.js окружении   
+>БЭМ нэйминг  
 >React.js   
+>Wordpress    
+>Работа в Node.js окружении   
 
 ### Примеры работ
->[Магазин рыбы/Многостраничник](http://test.webdiller.ru/)   
->[Магазин косметики/Многостраничник](http://test2.webdiller.ru/)   
->[Лендинг для веб агенства](https://webdiller.github.io/web-alternative/)     
->[Логистика/Wordpress/Многостраничник](http://atransdv.ru/)   
->[Автошкола/Wordpress/Многостраничник](http://autogrenada.ru/)   
->[Ремонт/Wordpress/Многостраничник](https://p-z-o.ru/remont-spectechniki)   
->[Редизайн шиномонтажа/Wordpress/Многостраничник](http://shinomontage24.ru/)   
->[Салон красоты/Wordpress/Многостраничник](http://montana-nails.ru/)    
->[Лендинг](https://webdiller.github.io/mars/)   
->[Лендинг](https://webdiller.github.io/fruits/)    
->[Лендинг](https://ornate-carving.com/)    
->[Работа с API погоды](https://github.com/webdhubiller/weather-app)[ - сайт](https://webdiller.github.io/weather-app/)    
->[Работа с API git](https://github.com/webdiller/apiUsers)[ - сайт](https://api-users-seven.vercel.app/)    
+>Магазин рыбы / Многостраничник - проект    
+>[сайт](https://github.com/webdiller/aldoga)     
+>[проект](http://test.webdiller.ru/)   
+>
+>
+>Магазин косметики / Многостраничник      
+>[сайт](http://test2.webdiller.ru/)     
+>
+>
+>Лендинг для веб агенства   
+>[сайт](https://webdiller.github.io/web-alternative/)     
+>[проект](https://github.com/webdiller/web-alternative)    
+>
+>
+>Логистика / Wordpress / Многостраничник    
+>[сайт](http://atransdv.ru/) 
+>
+>
+>Автошкола / Wordpress / Многостраничник    
+>[сайт](http://autogrenada.ru/)
+>
+>
+>Ремонт / Wordpress / Многостраничник   
+>[сайт](https://p-z-o.ru/remont-spectechniki)
+>
+>
+>Редизайн шиномонтажа / Wordpress / Многостраничник  
+>[сайт](http://shinomontage24.ru/)   
+>
+>
+>Салон красоты / Wordpress/ Многостраничник
+>[сайт](http://montana-nails.ru/)    
+>
+>
+>Лендинг     
+>[сайт](https://webdiller.github.io/mars/)   
+>[проект](https://github.com/webdiller/mars)   
+>
+>
+>Лендинг     
+>[сайт](https://webdiller.github.io/fruits/)  
+>[проект](https://github.com/webdiller/fruits)   
+>
+>
+>Лендинг     
+>[сайт](https://ornate-carving.com/)    
+>
+>
+>Работа с API погоды     
+>[сайт](https://webdiller.github.io/weather-app/)   
+>[проект](https://github.com/webdiller/weather-app)
+>
+>
+>Работа с API git    
+>[сайт](https://api-users-seven.vercel.app/)   
+>[проект](https://github.com/webdiller/apiUsers) 
 
 
 ### Опыт работы
