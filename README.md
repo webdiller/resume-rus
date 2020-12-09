@@ -97,7 +97,7 @@
 
 ### Контакты 
 >[Whatsapp +7-999-615-97-89](https://wa.me/79996159789)     
->[Telegram webdillerru](tg://resolve?domain=webdillerru)      
+>[Telegram webdillerru](https://tg://resolve?domain=webdillerru)      
 >[vk.com/eugenefromrus](https://vk.com/eugenefromrus)  
 >[eugenefromrus@gmail.com](mailto:eugenefromrus@gmail.com)      
 >[Личный сайт webdiller.ru](https://www.webdiller.ru)   
