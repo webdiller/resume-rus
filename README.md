@@ -18,8 +18,8 @@
 
 ### Примеры работ
 >Магазин рыбы / Многостраничник - проект    
->[сайт](https://github.com/webdiller/aldoga)     
->[проект](http://test.webdiller.ru/)   
+>[сайт](http://test.webdiller.ru/)     
+>[проект](https://github.com/webdiller/aldoga)   
 >
 >
 >Магазин косметики / Многостраничник      
