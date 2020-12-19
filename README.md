@@ -27,7 +27,7 @@
 >
 >
 >Лендинг для веб агенства   
->[сайт](https://webdiller.github.io/web-alternative/)     
+>[сайт](https://www.webdiller.ru)     
 >[проект](https://github.com/webdiller/web-alternative)    
 >
 >
