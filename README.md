@@ -24,6 +24,8 @@
 >
 >Магазин косметики / Многостраничник      
 >[сайт](http://test2.webdiller.ru/)     
+>[проект](https://github.com/webdiller/skin-food)
+>[Дизайн](https://www.figma.com/file/hhoaSOt7zXh0kcnBrMIIzu/Skin-food?node-id=0%3A1&viewport=302%2C300%2C0.044329434633255005)   
 >
 >
 >Лендинг для веб агенства   
