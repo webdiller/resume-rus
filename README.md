@@ -17,80 +17,80 @@
 >Работа в Node.js окружении   
 
 ### Примеры работ
->Объявления о продаже машин / Многостраничник / Командная работа    
+>###### Объявления о продаже машин / Многостраничник / Командная работа    
 >Технологии: nextjs     
 >Роль: веркстка, немного фронта / js, стилизация, дизайн, тоздание тз, участие в разработке алгоритма работы сайта    
 >[сайт](https://zizli.ru/)   
 >
 >
->Магазин рыбы / Многостраничник     
+>###### Магазин рыбы / Многостраничник     
 >Технологии: верстка, gulp, scss, js   
 >[сайт](http://test.webdiller.ru/)     
 >[проект](https://github.com/webdiller/aldoga)   
 >
 >
->Магазин косметики / Многостраничник      
+>###### Магазин косметики / Многостраничник      
 >Технологии: верстка, gulp, scss, js   
 >[сайт](http://test2.webdiller.ru/)     
 >[проект](https://github.com/webdiller/skin-food)   
 >[дизайн](https://www.figma.com/file/hhoaSOt7zXh0kcnBrMIIzu/Skin-food?node-id=0%3A1&viewport=302%2C300%2C0.044329434633255005)   
 >
 >
->Лендинг для веб агенства   
+>###### Лендинг для веб агенства   
 >Технологии: верстка, gulp, scss, js   
 >[сайт](https://www.webdiller.ru)     
 >[проект](https://github.com/webdiller/web-alternative)    
 >
 >
->Логистика / Wordpress / Многостраничник  
+>###### Логистика / Wordpress / Многостраничник  
 >Технологии: gulp, scss, wordpress, js   
 >[сайт](http://atransdv.ru/) 
 >
 >
->Автошкола / Wordpress / Многостраничник 
+>###### Автошкола / Wordpress / Многостраничник 
 >Технологии: верстка, gulp, scss, wordpress, js    
 >[сайт](http://autogrenada.ru/)
 >
 >
->Ремонт / Wordpress / Многостраничник   
+>###### Ремонт / Wordpress / Многостраничник   
 >Технологии: верстка, gulp, scss, wordpress, js   
 >[сайт](https://p-z-o.ru/remont-spectechniki)
 >
 >
->Редизайн шиномонтажа / Wordpress / Многостраничник
+>###### Редизайн шиномонтажа / Wordpress / Многостраничник
 >Технологии: верстка, gulp, scss, wordpress, js   
 >[сайт](http://shinomontage24.ru/)   
 >
 >
->Салон красоты / Wordpress/ Многостраничник    
+>###### Салон красоты / Wordpress/ Многостраничник    
 >Технологии: верстка, gulp, scss, wordpress, js   
 >[сайт](http://montana-nails.ru/)    
 >
 >
->Лендинг     
+>###### Лендинг     
 >Технологии: верстка, gulp, scss  
 >[сайт](https://webdiller.github.io/mars/)   
 >[проект](https://github.com/webdiller/mars)   
 >
 >
->Лендинг     
+>###### Лендинг     
 >Технологии: верстка, gulp, scss, js    
 >[сайт](https://webdiller.github.io/fruits/)  
 >[проект](https://github.com/webdiller/fruits)   
 >
 >
->Лендинг     
+>###### Лендинг     
 >Технологии: верстка, gulp, scss, js   
 >[сайт](https://ornate-carving.com/)    
 >
 >
->Работа с API погоды     
+>###### Работа с API погоды     
 >Технологии: верстка, css, js   
 >[сайт](https://webdiller.github.io/weather-app/)   
 >[проект](https://github.com/webdiller/weather-app)
 >
 >
->Работа с API git   
+>###### Работа с API git   
 >Технологии: верстка, reactjs, css, js   
 >[сайт](https://api-users-seven.vercel.app/)   
 >[проект](https://github.com/webdiller/apiUsers) 
