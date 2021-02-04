@@ -18,82 +18,82 @@
 >Работа в Node.js окружении   
 
 ### Примеры работ
->##### Объявления о продаже машин / Многостраничник / Командная работа    
->Технологии: nextjs     
->Роль: верстка, немного фронта / js, стилизация, дизайн, разработка тз, участие в разработке алгоритма работы сайта    
->[сайт](https://zizli.ru/)   
+>#### Объявления о продаже машин / Многостраничник / Командная работа    
+>Технологии: nextjs, scss, БЭМ, styled-components, react-redux           
+>Роль: верстка, немного фронта, стилизация, дизайн, разработка тз, участие в разработке алгоритма работы сайта   
+>[сайт](https://zizli.ru/) – zizli.ru       
 >
 >
->##### Магазин рыбы / Многостраничник     
->Технологии: верстка, gulp, scss, js   
->[сайт](http://test.webdiller.ru/)     
+>#### Магазин рыбы / Многостраничник     
+>Технологии: верстка, БЭМ, scss, gulp, js      
+>[сайт](http://test.webdiller.ru/) – test.webdiller.ru      
 >[проект](https://github.com/webdiller/aldoga)   
 >
 >
->##### Магазин косметики / Многостраничник      
->Технологии: верстка, gulp, scss, js   
->[сайт](http://test2.webdiller.ru/)     
->[проект](https://github.com/webdiller/skin-food)   
+>#### Магазин косметики / Многостраничник      
+>Технологии: верстка, БЭМ, scss, gulp, js      
+>[сайт](http://test2.webdiller.ru/) – test2.webdiller.ru            
+>[проект](https://github.com/webdiller/skin-food) – github.com/webdiller/skin-food     
 >[дизайн](https://www.figma.com/file/hhoaSOt7zXh0kcnBrMIIzu/Skin-food?node-id=0%3A1&viewport=302%2C300%2C0.044329434633255005)   
 >
 >
->##### Лендинг для веб агентства   
->Технологии: верстка, gulp, scss, js   
->[сайт](https://www.webdiller.ru)     
+>#### Лендинг для веб агентства   
+>Технологии: верстка, БЭМ, scss, gulp, js      
+>[сайт](https://www.webdiller.ru) – webdiller.github.io/web-alternative     
 >[проект](https://github.com/webdiller/web-alternative)    
 >
 >
->##### Логистика / Wordpress / Многостраничник  
->Технологии: gulp, scss, wordpress, js   
->[сайт](http://atransdv.ru/) 
+>#### Логистика / Wordpress / Многостраничник  
+>Технологии: верстка, БЭМ, scss, gulp, js, wordpress   
+>[сайт](http://atransdv.ru/) – atransdv.ru     
 >
 >
->##### Автошкола / Wordpress / Многостраничник 
->Технологии: верстка, gulp, scss, wordpress, js    
->[сайт](http://autogrenada.ru/)
+>#### Автошкола / Wordpress / Многостраничник 
+>Технологии: верстка, БЭМ, scss, gulp, js, wordpress       
+>[сайт](http://autogrenada.ru/) – autogrenada.ru    
 >
 >
->##### Ремонт / Wordpress / Многостраничник   
->Технологии: верстка, gulp, scss, wordpress, js   
->[сайт](https://p-z-o.ru/remont-spectechniki)
+>#### Ремонт / Wordpress / Многостраничник   
+>Технологии: верстка, scss, gulp, js, wordpress    
+>[сайт](https://p-z-o.ru/remont-spectechniki) – p-z-o.ru    
 >
 >
->##### Редизайн шиномонтажа / Wordpress / Многостраничник
->Технологии: верстка, gulp, scss, wordpress, js   
->[сайт](http://shinomontage24.ru/)   
+>#### Редизайн шиномонтажа / Wordpress / Многостраничник
+>Технологии: верстка, gulp, scss, wordpress, js      
+>[сайт](http://shinomontage24.ru/) – shinomontage24.ru      
 >
 >
->##### Салон красоты / Wordpress/ Многостраничник    
->Технологии: верстка, gulp, scss, wordpress, js   
->[сайт](http://montana-nails.ru/)    
+>#### Салон красоты / Wordpress/ Многостраничник    
+>Технологии: верстка, gulp, scss, wordpress, js       
+>[сайт](http://montana-nails.ru/) –    
 >
 >
->##### Лендинг     
->Технологии: верстка, gulp, scss  
->[сайт](https://webdiller.github.io/mars/)   
+>#### Лендинг     
+>Технологии: верстка, БЭМ, scss, gulp, js      
+>[сайт](https://webdiller.github.io/mars/) – webdiller.github.io/mars      
 >[проект](https://github.com/webdiller/mars)   
 >
 >
->##### Лендинг     
+>#### Лендинг     
 >Технологии: верстка, gulp, scss, js    
->[сайт](https://webdiller.github.io/fruits/)  
+>[сайт](https://webdiller.github.io/fruits/) – webdiller.github.io/fruits    
 >[проект](https://github.com/webdiller/fruits)   
 >
 >
->##### Лендинг     
+>#### Лендинг     
 >Технологии: верстка, gulp, scss, js   
->[сайт](https://ornate-carving.com/)    
+>[сайт](https://ornate-carving.com/) – ornate-carving.com    
 >
 >
->##### Работа с API погоды     
->Технологии: верстка, css, js   
->[сайт](https://webdiller.github.io/weather-app/)   
+>#### Работа с API погоды     
+>Технологии: верстка, css, js, reactjs        
+>[сайт](https://webdiller.github.io/weather-app/) – webdiller.github.io/weather-app    
 >[проект](https://github.com/webdiller/weather-app)
 >
 >
->##### Работа с API git   
+>#### Работа с API git   
 >Технологии: верстка, reactjs, css, js   
->[сайт](https://api-users-seven.vercel.app/)   
+>[сайт](https://api-users-seven.vercel.app/) – api-users-seven.vercel.app    
 >[проект](https://github.com/webdiller/apiUsers) 
 
 
