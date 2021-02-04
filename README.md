@@ -129,7 +129,7 @@
 >English - умею читать и переводить, немного разговаривать
 
 ### Ключевые слова
-> верстка, верстка адаптивная, верстка кроссбраузерная, верстка валидная, верстка mobile first, sass, scss, gulp, wordpress, javascript, es5, es6, figma, reactjs, nextjs, nodejs
+> верстка, верстка адаптивная, верстка кроссбраузерная, верстка валидная, верстка mobile first, sass, scss, gulp, wordpress, javascript, es5, es6, figma, reactjs, nextjs, nodejs, styled-components    
 
 ### Контакты 
 >[Whatsapp +7-999-615-97-89](https://wa.me/79996159789)     
