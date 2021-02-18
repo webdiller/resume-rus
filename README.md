@@ -39,8 +39,8 @@
 >
 >#### Лендинг для веб агентства   
 >Технологии: верстка, БЭМ, scss, gulp, js      
->[сайт](https://www.webdiller.ru) – webdiller.github.io/web-alternative     
->[проект](https://github.com/webdiller/web-alternative)    
+>[сайт](https://webdiller.github.io/web-alternative/) – webdiller.github.io/web-alternative     
+>[проект](https://github.com/webdiller/web-alternative) – https://github.com/webdiller/web-alternative      
 >
 >
 >#### Логистика / Wordpress / Многостраничник  
@@ -65,19 +65,19 @@
 >
 >#### Салон красоты / Wordpress/ Многостраничник    
 >Технологии: верстка, gulp, scss, wordpress, js       
->[сайт](http://montana-nails.ru/) – montana-nails.ru                   
+>[сайт](http://montana-nails.ru/) – montana-nails.ru                     
 >
 >
 >#### Лендинг     
 >Технологии: верстка, БЭМ, scss, gulp, js      
 >[сайт](https://webdiller.github.io/mars/) – webdiller.github.io/mars      
->[проект](https://github.com/webdiller/mars)   
+>[проект](https://github.com/webdiller/mars) – https://github.com/webdiller/mars    
 >
 >
 >#### Лендинг     
 >Технологии: верстка, gulp, scss, js    
 >[сайт](https://webdiller.github.io/fruits/) – webdiller.github.io/fruits    
->[проект](https://github.com/webdiller/fruits)   
+>[проект](https://github.com/webdiller/fruits) – https://github.com/webdiller/fruits    
 >
 >
 >#### Лендинг     
@@ -88,7 +88,7 @@
 >#### Работа с API погоды     
 >Технологии: верстка, css, js, reactjs        
 >[сайт](https://webdiller.github.io/weather-app/) – webdiller.github.io/weather-app    
->[проект](https://github.com/webdiller/weather-app)
+>[проект](https://github.com/webdiller/weather-app) – https://github.com/webdiller/weather-app    
 >
 >
 >#### Работа с API git   
