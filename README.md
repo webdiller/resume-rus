@@ -26,13 +26,13 @@
 >
 >#### Магазин рыбы / Многостраничник     
 >Технологии: верстка, БЭМ, scss, gulp, js      
->[сайт](http://test.webdiller.ru/) – test.webdiller.ru      
+>[сайт](http://test.webdiller.ru/) – http://test.webdiller.ru      
 >[проект](https://github.com/webdiller/aldoga) – https://github.com/webdiller/aldoga    
 >
 >
 >#### Магазин косметики / Многостраничник      
 >Технологии: верстка, БЭМ, scss, gulp, js      
->[сайт](http://test2.webdiller.ru/) – test2.webdiller.ru            
+>[сайт](http://test2.webdiller.ru/) – http://test2.webdiller.ru            
 >[проект](https://github.com/webdiller/skin-food) – https://github.com/webdiller/skin-food     
 >[дизайн](https://www.figma.com/file/hhoaSOt7zXh0kcnBrMIIzu/Skin-food?node-id=0%3A1&viewport=302%2C300%2C0.044329434633255005)   
 >
@@ -45,7 +45,7 @@
 >
 >#### Логистика / Wordpress / Многостраничник  
 >Технологии: верстка, БЭМ, scss, gulp, js, wordpress   
->[сайт](http://atransdv.ru/) – atransdv.ru     
+>[сайт](http://atransdv.ru/) – http://atransdv.ru     
 >
 >
 >#### Автошкола / Wordpress / Многостраничник 
@@ -82,7 +82,7 @@
 >
 >#### Лендинг     
 >Технологии: верстка, gulp, scss, js   
->[сайт](https://ornate-carving.com/) – ornate-carving.com    
+>[сайт](https://ornate-carving.com/) – https://ornate-carving.com    
 >
 >
 >#### Работа с API погоды     
