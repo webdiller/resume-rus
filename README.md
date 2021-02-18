@@ -21,7 +21,7 @@
 >#### Объявления о продаже машин / Многостраничник / Командная работа    
 >Технологии: nextjs, scss, БЭМ, styled-components, react-redux           
 >Роль: верстка, немного фронта, стилизация, дизайн, разработка тз, участие в разработке алгоритма работы сайта   
->[сайт](https://zizli.ru/) – zizli.ru       
+>[сайт](https://zizli.ru/) – https://zizli.ru       
 >
 >
 >#### Магазин рыбы / Многостраничник     
@@ -33,13 +33,13 @@
 >#### Магазин косметики / Многостраничник      
 >Технологии: верстка, БЭМ, scss, gulp, js      
 >[сайт](http://test2.webdiller.ru/) – test2.webdiller.ru            
->[проект](https://github.com/webdiller/skin-food) – github.com/webdiller/skin-food     
+>[проект](https://github.com/webdiller/skin-food) – https://github.com/webdiller/skin-food     
 >[дизайн](https://www.figma.com/file/hhoaSOt7zXh0kcnBrMIIzu/Skin-food?node-id=0%3A1&viewport=302%2C300%2C0.044329434633255005)   
 >
 >
 >#### Лендинг для веб агентства   
 >Технологии: верстка, БЭМ, scss, gulp, js      
->[сайт](https://webdiller.github.io/web-alternative/) – webdiller.github.io/web-alternative     
+>[сайт](https://webdiller.github.io/web-alternative/) – https://webdiller.github.io/web-alternative     
 >[проект](https://github.com/webdiller/web-alternative) – https://github.com/webdiller/web-alternative      
 >
 >
@@ -50,34 +50,34 @@
 >
 >#### Автошкола / Wordpress / Многостраничник 
 >Технологии: верстка, БЭМ, scss, gulp, js, wordpress       
->[сайт](http://autogrenada.ru/) – autogrenada.ru    
+>[сайт](http://autogrenada.ru/) – https://autogrenada.ru    
 >
 >
 >#### Ремонт / Wordpress / Многостраничник   
 >Технологии: верстка, scss, gulp, js, wordpress    
->[сайт](https://p-z-o.ru/remont-spectechniki) – p-z-o.ru    
+>[сайт](https://p-z-o.ru/remont-spectechniki) – https://p-z-o.ru    
 >
 >
 >#### Редизайн шиномонтажа / Wordpress / Многостраничник
 >Технологии: верстка, gulp, scss, wordpress, js      
->[сайт](http://shinomontage24.ru/) – shinomontage24.ru      
+>[сайт](http://shinomontage24.ru/) – http://shinomontage24.ru      
 >
 >
 >#### Салон красоты / Wordpress/ Многостраничник    
 >Технологии: верстка, gulp, scss, wordpress, js       
->[сайт](http://montana-nails.ru/) – montana-nails.ru                     
+>[сайт](http://montana-nails.ru/) – http://montana-nails.ru                     
 >
 >
 >#### Лендинг     
 >Технологии: верстка, БЭМ, scss, gulp, js      
->[сайт](https://webdiller.github.io/mars/) – webdiller.github.io/mars      
+>[сайт](https://webdiller.github.io/mars/) – https://webdiller.github.io/mars      
 >[проект](https://github.com/webdiller/mars) – https://github.com/webdiller/mars    
 >
 >
 >#### Лендинг     
 >Технологии: верстка, gulp, scss, js    
->[сайт](https://webdiller.github.io/fruits/) – webdiller.github.io/fruits    
->[проект](https://github.com/webdiller/fruits) – https://github.com/webdiller/fruits    
+>[сайт](https://webdiller.github.io/fruits/) – https://webdiller.github.io/fruits    
+>[проект](https://github.com/webdiller/fruits) – https://github.com/webdiller/fruits     
 >
 >
 >#### Лендинг     
@@ -87,14 +87,14 @@
 >
 >#### Работа с API погоды     
 >Технологии: верстка, css, js, reactjs        
->[сайт](https://webdiller.github.io/weather-app/) – webdiller.github.io/weather-app    
->[проект](https://github.com/webdiller/weather-app) – https://github.com/webdiller/weather-app    
+>[сайт](https://webdiller.github.io/weather-app/) – https://webdiller.github.io/weather-app    
+>[проект](https://github.com/webdiller/weather-app) – https://github.com/webdiller/weather-app       
 >
 >
 >#### Работа с API git   
 >Технологии: верстка, reactjs, css, js   
->[сайт](https://api-users-seven.vercel.app/) – api-users-seven.vercel.app    
->[проект](https://github.com/webdiller/apiUsers) 
+>[сайт](https://api-users-seven.vercel.app/) – https://api-users-seven.vercel.app    
+>[проект](https://github.com/webdiller/apiUsers) – https://github.com/webdiller/apiUsers    
 
 
 ### Опыт работы 
