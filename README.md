@@ -27,7 +27,7 @@
 >#### Магазин рыбы / Многостраничник     
 >Технологии: верстка, БЭМ, scss, gulp, js      
 >[сайт](http://test.webdiller.ru/) – test.webdiller.ru      
->[проект](https://github.com/webdiller/aldoga)   
+>[проект](https://github.com/webdiller/aldoga) – https://github.com/webdiller/aldoga    
 >
 >
 >#### Магазин косметики / Многостраничник      
