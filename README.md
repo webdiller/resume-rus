@@ -11,7 +11,7 @@
 ### Навыки
 >HTML + CSS / SCSS / SASS + JS(es5/es6) + jQuery  
 >Создание простых дизайнов для сайта    
->Gulp 3/4  
+>Gulp         
 >БЭМ нэйминг  
 >React.js   
 >Wordpress    
